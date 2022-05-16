@@ -1,2 +1,2 @@
-# Preject-of-reti-logiche-Alessandro-Arbasino
-project of "reti logiche" 2021
+# Progetto-di-reti-logiche-Alessandro-Arbasino
+progetto di reti logiche anno scolastico 2020/2021 passato con voto 24/30
