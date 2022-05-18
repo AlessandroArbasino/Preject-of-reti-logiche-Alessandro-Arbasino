@@ -1,7 +1,6 @@
 # Progetto-di-reti-logiche-Alessandro-Arbasino
-progetto di reti logiche anno scolastico 2020/2021 superato con voto 24/30
+Progetto di reti logiche anno scolastico 2020/2021 superato con voto 24/30
 
-Il progetto consiste nello sviluppare tramite vhdl la specifica fornitaci riportata nel file PFRLspecifica.pdf.
 
 > Struttura della repo 
 - PFRLspecifica.pdf contiene la specifica con i requisiti di progetto
