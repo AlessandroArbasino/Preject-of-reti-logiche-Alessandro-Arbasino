@@ -1,6 +1,5 @@
 --ALESSANDRO ARBASINO
---MATRICOLA 909714
---CODICE PERSONA 10628778
+
 library IEEE;
 use IEEE.STD_logic_1164.ALL;
 use IEEE.numeric_std.ALL;
@@ -164,7 +163,7 @@ begin
                     o_en<='0';
                     next_log<="00000";
                     next_value_log<="0000000001";
-                    delta_value<="0"& (max-min);--fare una cosa a parte e mettere un bit a 0 in piu e fare delta value a 9 bit
+                    delta_value<="0"& (max-min);
                     next_state<=s6;
               when s6=>                     
                     if ((to_integer(unsigned(delta_value)))+1) >=(to_integer(unsigned(value_log))) then--trovo il valore del logaritmo
